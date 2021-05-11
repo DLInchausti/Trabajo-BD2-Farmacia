@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DrakuleLaw\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DrakuleLaw\\.nuget\\packages",
+      "D:\\Documentos\\VS cosas\\NuGetPackages"
+    ]
+  }
+}
